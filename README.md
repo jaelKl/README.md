@@ -1,1 +1,9 @@
-# README.md
+# Sobre Mim
+- 👋 Olá, eu sou Robson.
+- 👍 Meu E-mail de contato é klzrobson35@gmail.com
+- 👀 Estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JAVA e PYTHON
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
